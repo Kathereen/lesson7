@@ -1,0 +1,19 @@
+button{
+    width: 25px;
+    height: 22px;
+    background-color: blueviolet;
+    color: white;
+    border-color: white;
+    border-radius: 1ch;
+}
+.checkbox{
+    background-color: yellowgreen;
+    color: navy;
+}
+input{
+    border-color: orangered;
+    
+}
+li{
+    list-style-type: none;
+}
